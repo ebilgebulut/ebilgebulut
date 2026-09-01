@@ -1,16 +1,30 @@
-## Hi there 👋
+### Elif Bilge Bulut
+BIM Automation Specialist · Architect (MSc) · Revit API & Python
 
-<!--
-**ebilgebulut/ebilgebulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building open-source pyRevit tools that automate repetitive parts of BIM modeling,
+with a focus on design-to-fabrication workflows for modular and prefabricated
+construction.
 
-Here are some ideas to get you started:
+4 years in BIM production (Revit, Rhino) on modular/prefab/infrastructure projects
+in the US, working at LOD 350–400: fabrication-ready modeling, clash detection,
+BIM interoperability. Speaker, Autodesk University 2024. Self-taught Python and
+the Revit API (Harvard CS50) to move from using BIM tools to building them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now based in Germany.
+
+---
+
+#### 🔧 What I build
+
+| Project | Description |
+|---|---|
+| [pyrevit-auto-dim-tool](https://github.com/ebilgebulut/pyrevit-auto-dim-tool) | Auto-generates grid and facade dimensions across selected Revit plan views |
+| [pyrevit-wall-library-builder](https://github.com/ebilgebulut/pyrevit-wall-library-builder) | Builds and validates Revit wall types from structured CSV wall-library data |
+
+#### 🧰 Stack
+
+`Revit API` · `pyRevit` · `Dynamo` · `Python` · `Speckle` · `Rhino` 
+
+#### 📫
+
+[LinkedIn](https://www.linkedin.com/in/elif-bilge-bulut-988859158/) · ebilgebulut@gmail.com — open to feedback, issues, and PRs on the projects above.

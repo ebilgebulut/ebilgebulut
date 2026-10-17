@@ -1,5 +1,5 @@
 ### Elif Bilge Bulut
-BIM Automation Specialist · Architect (MSc) · Revit API & Python
+BIM Automation Specialist · Architectural Designer (MSc) · Revit API & Python
 
 Building open-source pyRevit tools that automate repetitive parts of BIM modeling,
 with a focus on design-to-fabrication workflows for modular and prefabricated
